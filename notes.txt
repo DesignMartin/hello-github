@@ -1,1 +1,2 @@
 These are my notes about learning GitHub
+I am adding some stuff here just to explore the branch feature
